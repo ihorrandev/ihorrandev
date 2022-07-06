@@ -5,8 +5,8 @@
 - Technology, innovation and a good juice 🧃
 
 <a href="https://www.instagram.com/ihorranzinn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href="https://twitter.com/ihorran3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/ihorran3" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ihorran-cruz-916647244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://stackoverflow.com/users/19498229/ihorran-cruz" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/ihorran3" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 
 ## ᴍʏ sᴛᴀᴛs:
