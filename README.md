@@ -1,6 +1,7 @@
-## ᴡʜᴀᴛ's ᴜᴘ? ɪʜᴏʀʀᴀɴ ʜᴇʀᴇ :)
-- 17 years old 🧑‍💻
-- Brazilian 🇧🇷
+## ᴡʜᴀᴛ's ᴜᴘ? ɪʜᴏʀʀᴀɴ ʜᴇʀᴇ :) 
+
+- 17 years old 👨‍💻
+- Brazilian 🟢
 - Systems development (2/3) 🖥️ 
 - Technology, innovation and a good juice 🧃
 
