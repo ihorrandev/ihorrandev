@@ -1,8 +1,8 @@
 <img align="center" alt="HeaderBackGroundGitHub" src="https://user-images.githubusercontent.com/92957629/208683575-d6ed4676-6a33-4adf-bad3-96d5b6601a6f.png" />
-<br><br>
 
 
-<h2 align="center"><b>ɪʜᴏʀʀᴀɴ ᴄʀᴜᴢ⚡</b></h2>
+
+<h3 align="center"><b>ɪʜᴏʀʀᴀɴ ᴄʀᴜᴢ⚡</b></h3>
 <p align="center"><b> Dev in Dev👨‍💻 | Mobile📱</b></p>
 
 #
