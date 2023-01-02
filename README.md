@@ -29,7 +29,7 @@ Eu espero que vocês gostem do perfil e dos projetos!!😁`)
 #
 
 ## 𝙢𝙚𝙪𝙨 𝙨𝙩𝙖𝙩𝙪𝙨📊
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ihorrandev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" align="center"/>  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihorrandev&layout=compact&langs_count=7&theme=github_dark" align="center"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ihorrandev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihorrandev&layout=compact&langs_count=7&theme=transparent"/>
 <br><br>
 #
 
