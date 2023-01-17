@@ -1,12 +1,8 @@
 <h2 align="center"><b>ɪʜᴏʀʀᴀɴ ᴄʀᴜᴢ⚡</b></h2>
-<h4 align="center"><b> Welcome to Profile :)</b></h4>
 
 #
 
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ihorrandev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihorrandev&layout=compact&langs_count=7&theme=github_dark"/>
-
-  #
 
   <div align="left">
 
@@ -31,6 +27,10 @@
 
 </div>
   </div>
+
+  #
+  
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ihorrandev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihorrandev&layout=compact&langs_count=7&theme=github_dark"/>
   
 </div>
 
