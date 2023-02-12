@@ -1,10 +1,9 @@
-<center> 
+<div align="center"> 
 
 ### **Ihorran Cruz** 
-
 Welcome to Profile🦆
 
-</center>
+</div>
 
 <img align="right" alt="ihorran-pic" width="140" style="border-radius:50px;" src="https://user-images.githubusercontent.com/92957629/156885082-2311a942-b5a3-4163-9ad8-8efcac0fca55.gif">
 
