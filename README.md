@@ -5,7 +5,7 @@
 
 ## **Bio:**
 
-- 😴 17yo | Mobile Student
+- 😴 18yo | Mobile Student
 - 📌 From Brazil, São Paulo
 - 🚀 I´m currently a React Native student 
 
