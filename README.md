@@ -5,9 +5,9 @@
 
 ## **Bio:**
 
-- 😴 18yo | Mobile Student
-- 📌 From Brazil, São Paulo
-- 🚀 I´m currently a React Native student 
+- 😴 18yo | Mobile Student.
+- 📌 From Brazil, São Paulo.
+- 🚀 I´m currently a React Native student.
 
 
 ## **Stacks:**
