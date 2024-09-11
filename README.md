@@ -9,5 +9,5 @@ Software Engineer.
 
 Passionate about back-end and mobile technologies
 
-I am Ihorran Cruz, a highly motivated and dedicated professional with 18 years of age and a background in Systems Development and Computer Science. My journey in the world of technology and innovation has been marked by a constant pursuit of excellence and continuous learning. I aspire to tackle significant challenges in the field of Information Technology, where I can apply my exceptional problem-solving skills and leadership.
+I am Ihorran Cruz, a highly motivated and dedicated professional with 19 years of age and a background in Systems Development and Computer Science. My journey in the world of technology and innovation has been marked by a constant pursuit of excellence and continuous learning. I aspire to tackle significant challenges in the field of Information Technology, where I can apply my exceptional problem-solving skills and leadership.
 
